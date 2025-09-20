@@ -36,4 +36,4 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![GTK wave](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20191201.png)
-![and gate verification]()
+![and gate verification](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20192423.png)
