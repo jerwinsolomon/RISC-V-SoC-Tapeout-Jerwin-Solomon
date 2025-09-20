@@ -31,5 +31,5 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![GTK wave](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20191201.png)
-
+and also i have implemented a basic AND_Gate operation us iverilog and using gtkwake the waveform has been generated
 ![and gate verification](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20192423.png)
