@@ -1,0 +1,56 @@
+sequence item->
+sequence item handle inside sequence
+
+driver -interface 
+common get set useful
+getnextitem and item done
+
+port declaration Tlm PORT ANd analysis port
+
+driver() logic interface= packet
+packet to pin
+
+
+pin correct ah checking 
+
+x issues -diagram
+
+
+only monitor and score port we use analysis port
+component to component no analysis port so we use tlm port
+getting using configdb 
+monitor pin to packet which is obtained from dut
+seqitem.
+function write default method
+
+
+write function in scored board 
+in sb analysis port import
+function write
+agent -{driver,seq,monitor}->connetion driver seqitem port to seq export
+
+environment
+// Include all verification components
+`include "dff_interface.svh"
+`include "dff_seq_item.svh"
+`include "dff_seq.svh"
+`include "dff_seq_er.svh"
+`include "dff_driver.svh"
+`include "dff_monitor.svh"
+`include "dff_agent.svh"
+`include "dff_s_board.svh"
+`include "dff_env.svh"
+`include "dff_test.svh"
+
+never miss the order
+
+interface declare
+isnst dut
+clk =interface.clk
+signal if not move to drive from monitor
+
+run test high command
+ 
+
+
+
