@@ -1,10 +1,27 @@
-RISC-V Reference SoC Tapeout Program VSD
-Tools Installation Week 0
-All the required tools are installed:
-Proof of Installation of Yosys
+# RISC-V Reference SoC Tapeout Program VSD
 
-TOOL CHECK
-Yosys
+## Tools Installation
+
+#### <ins>All the instructions for installation of required tools can be found here:</ins>
+
+### **System Requirements**
+- 6 GB RAM
+- 50 GB HDD
+- Ubuntu 20.04 or higher
+- 4 vCPU
+
+### **Resizing the Ubuntu window to fit the screen**
+```bash
+$ sudo apt update
+$ sudo apt install build-essential dkms linux-headers-$(uname -r)
+$ cd /media/spatha/VBox_GAs_7.1.8/
+$ ./autorun.sh
+```
+
+### **TOOL CHECK**
+
+#### <ins>**Yosys**</ins>
+```bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
@@ -18,11 +35,20 @@ $ make config-gcc
 $ git submodule update --init --recursive
 $ make 
 $ sudo make install
-Alt Text
+```
+![Alt Text](Images/yosys_installation_done.jpeg)
 
-Iverilog
+#### <ins>**Iverilog**</ins>
+```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
-Alt Text
+```
+![Alt Text](Images/iverilog_status.png)
 
-gtkwave         
+#### <ins>**gtkwave**</ins>
+```bash
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+![Alt Text](Images/gtkwave_installation_done.jpeg)
+
