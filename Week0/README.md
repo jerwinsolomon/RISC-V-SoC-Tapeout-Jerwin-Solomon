@@ -2,18 +2,13 @@
 
 ## Tools Installation Verification
 
-#### <ins>All the instructions for installation of required tools can be found here:</ins>
+#### <ins>All the proof for installation of required tools can be found here:</ins>
 
 ### **Yosys installation**
+Here i have installed the Yousys packages on ubuntu using the tools instruction give in the course
 ![Yosys Installation](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20190925.png)
 
-### **Resizing the Ubuntu window to fit the screen**
-```bash
-$ sudo apt update
-$ sudo apt install build-essential dkms linux-headers-$(uname -r)
-$ cd /media/spatha/VBox_GAs_7.1.8/
-$ ./autorun.sh
-```
+
 
 ### **TOOL CHECK**
 
