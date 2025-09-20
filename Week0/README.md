@@ -29,11 +29,11 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 ![Alt Text](Images/iverilog_status.png)
-![Iverilog installation]()
+![Iverilog installation](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20191109.png)
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Images/gtkwave_installation_done.jpeg)
-
+![GTK wave]()
+![and gate verification]()
