@@ -5,7 +5,7 @@
 #### <ins>All the proof for installation of required tools can be found here:</ins>
 
 ### **Yosys installation**
-Here i have installed the Yousys packages on ubuntu using the tools instruction give in the course
+Here i have installed the Yousys packages on ubuntu using the tools installation instruction given in the course
 ![Yosys Installation](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20190925.png)
 
 
