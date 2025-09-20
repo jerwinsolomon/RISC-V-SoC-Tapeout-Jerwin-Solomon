@@ -5,7 +5,7 @@
 #### <ins>All the instructions for installation of required tools can be found here:</ins>
 
 ### **Yosys installation**
-![Yosys Installation]()
+![Yosys Installation](https://github.com/jerwinsolomon/RISC-V-SoC-Tapeout-Jerwin-Solomon/blob/main/Week0/Images/Screenshot%202025-09-20%20190925.png)
 
 ### **Resizing the Ubuntu window to fit the screen**
 ```bash
@@ -29,7 +29,7 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 ![Alt Text](Images/iverilog_status.png)
-
+![Iverilog installation]()
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
