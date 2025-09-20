@@ -5,7 +5,7 @@
 #### <ins>All the instructions for installation of required tools can be found here:</ins>
 
 ### **Yosys installation**
-
+![Yosys Installation]()
 
 ### **Resizing the Ubuntu window to fit the screen**
 ```bash
